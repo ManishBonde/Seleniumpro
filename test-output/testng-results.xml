@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Facebook – log in or sign up]]>
+    </line>
+    <line>
+      <![CDATA[https://www.facebook.com/]]>
+    </line>
+    <line>
+      <![CDATA[Facebook – log in or sign up]]>
+    </line>
+    <line>
+      <![CDATA[https://www.facebook.com/]]>
+    </line>
+    <line>
+      <![CDATA[Facebook – log in or sign up]]>
+    </line>
+    <line>
+      <![CDATA[https://www.facebook.com/]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-13T22:22:17 IST" name="Suite" finished-at="2022-07-13T22:23:04 IST" duration-ms="47740">
+    <groups>
+    </groups>
+    <test started-at="2022-07-13T22:22:17 IST" name="Test" finished-at="2022-07-13T22:23:04 IST" duration-ms="47740">
+      <class name="TestNG.Create_Page">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:TestNG.Create_Page@62e7f11d]" started-at="2022-07-13T22:22:17 IST" name="openApp" finished-at="2022-07-13T22:22:23 IST" duration-ms="6389" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Facebook – log in or sign up]]>
+            </line>
+            <line>
+              <![CDATA[https://www.facebook.com/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="TestCase2()[pri:0, instance:TestNG.Create_Page@62e7f11d]" started-at="2022-07-13T22:22:23 IST" name="TestCase2" finished-at="2022-07-13T22:22:40 IST" duration-ms="17428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.Create_Page@62e7f11d]" started-at="2022-07-13T22:22:41 IST" name="closeApp" finished-at="2022-07-13T22:22:41 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestNG.Create_Page -->
+      <class name="TestNG.Forgot_pswd">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:TestNG.Forgot_pswd@1a4013]" started-at="2022-07-13T22:22:41 IST" name="openApp" finished-at="2022-07-13T22:22:47 IST" duration-ms="6367" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Facebook – log in or sign up]]>
+            </line>
+            <line>
+              <![CDATA[https://www.facebook.com/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="TestCase2()[pri:0, instance:TestNG.Forgot_pswd@1a4013]" started-at="2022-07-13T22:22:47 IST" name="TestCase2" finished-at="2022-07-13T22:22:58 IST" duration-ms="11179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.Forgot_pswd@1a4013]" started-at="2022-07-13T22:22:58 IST" name="closeApp" finished-at="2022-07-13T22:22:59 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestNG.Forgot_pswd -->
+      <class name="TestNG.Fb_Login">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:TestNG.Fb_Login@1b6e1eff]" started-at="2022-07-13T22:22:59 IST" name="openApp" finished-at="2022-07-13T22:23:04 IST" duration-ms="5288" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Facebook – log in or sign up]]>
+            </line>
+            <line>
+              <![CDATA[https://www.facebook.com/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="TestCase1()[pri:0, instance:TestNG.Fb_Login@1b6e1eff]" started-at="2022-07-13T22:23:04 IST" name="TestCase1" finished-at="2022-07-13T22:23:04 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.Fb_Login@1b6e1eff]" started-at="2022-07-13T22:23:04 IST" name="closeApp" finished-at="2022-07-13T22:23:04 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- TestNG.Fb_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
