@@ -20,7 +20,7 @@ public class Face {
 		fb.loginbutton();
 		
 		Thread.sleep(3000);
-		driver.close();
+		driver.quit();
 
 	}
 

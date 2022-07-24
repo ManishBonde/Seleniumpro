@@ -20,12 +20,12 @@
       <![CDATA[https://www.facebook.com/]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-07-13T22:22:17 IST" name="Suite" finished-at="2022-07-13T22:23:04 IST" duration-ms="47740">
+  <suite started-at="2022-07-23T22:41:50 IST" name="Suite" finished-at="2022-07-23T22:42:17 IST" duration-ms="27502">
     <groups>
     </groups>
-    <test started-at="2022-07-13T22:22:17 IST" name="Test" finished-at="2022-07-13T22:23:04 IST" duration-ms="47740">
+    <test started-at="2022-07-23T22:41:50 IST" name="Test" finished-at="2022-07-23T22:42:17 IST" duration-ms="27502">
       <class name="TestNG.Create_Page">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:TestNG.Create_Page@62e7f11d]" started-at="2022-07-13T22:22:17 IST" name="openApp" finished-at="2022-07-13T22:22:23 IST" duration-ms="6389" status="PASS">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:TestNG.Create_Page@503d687a]" started-at="2022-07-23T22:41:50 IST" name="openApp" finished-at="2022-07-23T22:41:56 IST" duration-ms="6159" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Facebook – log in or sign up]]>
@@ -35,17 +35,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="TestCase2()[pri:0, instance:TestNG.Create_Page@62e7f11d]" started-at="2022-07-13T22:22:23 IST" name="TestCase2" finished-at="2022-07-13T22:22:40 IST" duration-ms="17428" status="PASS">
+        <test-method signature="TestCase3()[pri:0, instance:TestNG.Create_Page@503d687a]" started-at="2022-07-23T22:41:56 IST" name="TestCase3" finished-at="2022-07-23T22:42:02 IST" duration-ms="6196" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestCase2 -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.Create_Page@62e7f11d]" started-at="2022-07-13T22:22:41 IST" name="closeApp" finished-at="2022-07-13T22:22:41 IST" duration-ms="271" status="PASS">
+        </test-method> <!-- TestCase3 -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.Create_Page@503d687a]" started-at="2022-07-23T22:42:02 IST" name="closeApp" finished-at="2022-07-23T22:42:06 IST" duration-ms="4221" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
       </class> <!-- TestNG.Create_Page -->
       <class name="TestNG.Forgot_pswd">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:TestNG.Forgot_pswd@1a4013]" started-at="2022-07-13T22:22:41 IST" name="openApp" finished-at="2022-07-13T22:22:47 IST" duration-ms="6367" status="PASS">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:TestNG.Forgot_pswd@1b6e1eff]" started-at="2022-07-23T22:42:06 IST" name="openApp" finished-at="2022-07-23T22:42:10 IST" duration-ms="3961" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Facebook – log in or sign up]]>
@@ -55,17 +55,17 @@
             </line>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="TestCase2()[pri:0, instance:TestNG.Forgot_pswd@1a4013]" started-at="2022-07-13T22:22:47 IST" name="TestCase2" finished-at="2022-07-13T22:22:58 IST" duration-ms="11179" status="PASS">
+        <test-method signature="TestCase2()[pri:0, instance:TestNG.Forgot_pswd@1b6e1eff]" started-at="2022-07-23T22:42:10 IST" name="TestCase2" finished-at="2022-07-23T22:42:13 IST" duration-ms="3216" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase2 -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.Forgot_pswd@1a4013]" started-at="2022-07-13T22:22:58 IST" name="closeApp" finished-at="2022-07-13T22:22:59 IST" duration-ms="226" status="PASS">
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.Forgot_pswd@1b6e1eff]" started-at="2022-07-23T22:42:13 IST" name="closeApp" finished-at="2022-07-23T22:42:14 IST" duration-ms="202" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
       </class> <!-- TestNG.Forgot_pswd -->
       <class name="TestNG.Fb_Login">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:TestNG.Fb_Login@1b6e1eff]" started-at="2022-07-13T22:22:59 IST" name="openApp" finished-at="2022-07-13T22:23:04 IST" duration-ms="5288" status="PASS">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:TestNG.Fb_Login@306f16f3]" started-at="2022-07-23T22:42:14 IST" name="openApp" finished-at="2022-07-23T22:42:17 IST" duration-ms="3003" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Facebook – log in or sign up]]>
@@ -75,11 +75,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="TestCase1()[pri:0, instance:TestNG.Fb_Login@1b6e1eff]" started-at="2022-07-13T22:23:04 IST" name="TestCase1" finished-at="2022-07-13T22:23:04 IST" duration-ms="303" status="PASS">
+        <test-method signature="TestCase1()[pri:0, instance:TestNG.Fb_Login@306f16f3]" started-at="2022-07-23T22:42:17 IST" name="TestCase1" finished-at="2022-07-23T22:42:17 IST" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase1 -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.Fb_Login@1b6e1eff]" started-at="2022-07-13T22:23:04 IST" name="closeApp" finished-at="2022-07-13T22:23:04 IST" duration-ms="210" status="PASS">
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:TestNG.Fb_Login@306f16f3]" started-at="2022-07-23T22:42:17 IST" name="closeApp" finished-at="2022-07-23T22:42:17 IST" duration-ms="212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
